@@ -10,3 +10,6 @@ Alphabetic Anagrams
 
 https://www.codewars.com/kata/51fda2d95d6efda45e00004e
 Codewars style ranking system
+
+https://www.codewars.com/kata/57040e445a726387a1001cf7
+The fusc function -- Part 2
